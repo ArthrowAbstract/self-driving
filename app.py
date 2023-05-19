@@ -16,7 +16,7 @@ def main():
     st.sidebar.title("What to do")
     app_mode = st.sidebar.selectbox("Choose the app mode",
         ["Run the app"])
-    elif app_mode == "Run the app":
+    if app_mode == "Run the app":
         readme_text.empty()
         run_the_app()
 
