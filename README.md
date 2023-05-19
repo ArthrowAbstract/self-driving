@@ -1,6 +1,6 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/demo-self-driving)
 
-# The Udacity Self-driving Car Image Browser
+# The Self-driving Car Image Browser
 
 
 Here is a readme file for a self driving yolo detection project hosted on Streamlit:
